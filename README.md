@@ -1,1 +1,4 @@
-# JobHunter
+УСТАНОВИТЕ GECKODRIVER С ОФИЦИАЛЬНОГО РЕПОЗИТОРИЯ GITHUB
+ДЛЯ РАБОТЫ НЕОБХОДИМ УСТАНОВЛЕННЫЙ FIREFOX BROWSER
+
+/start чтобы начать работу
