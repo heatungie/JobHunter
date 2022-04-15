@@ -52,7 +52,7 @@ def get_vacancy(request, special, message):
         driver.quit()
 
 
-bot = telebot.TeleBot('5349273980:AAGmLHWGVKL0mm1tKiF9MZlsLYEFcccrcCY')
+bot = telebot.TeleBot('')
 spec = ['']
 
 
